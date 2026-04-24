@@ -13,6 +13,8 @@ It communicates with a Spring Boot REST backend using RestTemplate.
 **Backend:**
 - Spring Boot (REST APIs)
 - Health AI Integration
+- Oauth2
+- Spring Security
 
 **Database:**
 - MySQL

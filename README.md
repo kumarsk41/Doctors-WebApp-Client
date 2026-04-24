@@ -52,4 +52,4 @@ It communicates with a Spring Boot REST backend using RestTemplate.
 1. Clone this repo
 2. Open in STS
 3. Run as Spring Boot app
-4. Visit: http://localhost:8081
+4. Visit: http://localhost:7070

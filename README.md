@@ -46,7 +46,7 @@ It communicates with a Spring Boot REST backend using RestTemplate.
 
 ### Backend
 1. Start backend Spring Boot application
-2. Ensure it runs on port 8080
+2. Ensure it runs on port 7070
 
 ### Frontend
 1. Clone this repo

@@ -26,5 +26,8 @@ public class User {
 	private Date dob;
 	private String gender;
     private byte[] photo;
+    public String getEmail() {
+        return email;
+    }
 	
 }
